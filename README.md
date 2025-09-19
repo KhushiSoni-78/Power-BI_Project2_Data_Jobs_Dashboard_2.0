@@ -19,7 +19,7 @@ Both projects use the **same dataset**, but this second version explores **deepe
 ---
 
 ## 🆚 Relation to Project 1
-- Uses the **same core dataset** as [Project 1](link-to-your-project1-repo).
+- Uses the **same core dataset** as [Project 1](https://github.com/KhushiSoni-78/PowerBI-data-jobs-dashboard).
 - Demonstrates **progression from basic to advanced Power BI skills**:
   - Project 1 focused on foundational visuals and KPIs.
   - Project 2 introduces **enhanced interactivity**, a **dark theme UI**, and **new DAX measures**.
@@ -58,5 +58,4 @@ Common tools from both projects:
 - Integrate live data updates using APIs.
 
 ---
-
-💡 *This project builds directly on the foundation set by [Project 1](link-to-your-project1-repo), demonstrating continuous learning and advanced Power BI capabilities.*
+💡 *This project builds directly on the foundation set by [Project 1](https://github.com/KhushiSoni-78/PowerBI-data-jobs-dashboard), demonstrating continuous learning and advanced Power BI capabilities.*
