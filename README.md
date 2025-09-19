@@ -1,6 +1,6 @@
 # 📊 Power BI Project 2 – Data Jobs Dashboard 2.0
 
-This repository contains **Power BI Project 2**, an advanced version of my previous [Data Jobs Dashboard (Project 1)](link-to-your-project1-repo).  
+This repository contains **Power BI Project 2**, an advanced version of my previous [Data Jobs Dashboard (Project 1)](https://github.com/KhushiSoni-78/PowerBI-data-jobs-dashboard).  
 Both projects use the **same dataset**, but this second version explores **deeper insights** and introduces **new skills and visual features**.
 
 ---
